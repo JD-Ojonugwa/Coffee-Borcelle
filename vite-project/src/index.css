@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-brown {
+    background-color:#6F4436;
+}
+.text-brown {
+    color: #6F4436;
+}
